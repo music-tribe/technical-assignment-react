@@ -3,6 +3,7 @@ import { connect } from 'react-redux'
 import styled from 'styled-components'
 import { getJamiroquai, getJamiroquaiReleases } from '../redux/actions/jamiroquai'
 import axios from 'axios'
+
 const Title = styled.h1`
 
 `
