@@ -23,6 +23,6 @@ We want you to improve this project in 2 ways. Primarily, because we want to see
 
 
 ## Submission
-Rather than submitting a Pull Request here (which would allow others to see your work!), please clone this repo, upload it again with the visibility set to private. Once you have done this, submit a pull request to the new repo containing your improvements, and add _cousinbenson_, _bananabread_ and _frednomoon_ as collaborators.
+Rather than submitting a Pull Request here (which would allow others to see your work), please clone this repo, upload it again with the visibility set to private. Once you have done this, submit a pull request to the new repo containing your improvements, and add _cousinbenson_, _bananabread_ and _frednomoon_ as collaborators.
 
 Note - there is deliberately a _HUGE_ amount to improve upon in this project, so please do not feel the need to fix everything. If after spending a sensible amount of time on this project there are still lots of things you would want to improve - feel free to write them down and let us know what they are!
